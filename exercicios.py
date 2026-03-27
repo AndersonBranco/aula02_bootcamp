@@ -118,12 +118,17 @@
 
 
 # 19. Faça um programa que compare se dois números fornecidos pelo usuário são iguais.
-numero_01 = float(input("Digite o primeiro número: "))
-numero_02 = float(input("Digite o segundo número: "))
-sao_iguais = numero_01 == numero_02
-print(f"Os números {numero_01} e {numero_02} são iguais? {sao_iguais}")
+#numero_01 = float(input("Digite o primeiro número: "))
+#numero_02 = float(input("Digite o segundo número: "))
+#sao_iguais = numero_01 == numero_02
+#print(f"Os números {numero_01} e {numero_02} são iguais? {sao_iguais}")
 
 # 20. Escreva um programa que verifique se dois números fornecidos pelo usuário são diferentes.
+#numero_01 = float(input("Digite o primeiro número: "))
+#numero_02 = float(input("Digite o segundo número: "))
+#sao_diferentes = numero_01 != numero_02
+#print(f"Os números {numero_01} e {numero_02} são diferentes? {sao_diferentes}")
+
 
 # #### try-except e if
 
@@ -132,3 +137,4 @@ print(f"Os números {numero_01} e {numero_02} são iguais? {sao_iguais}")
 # 23: Calculadora Simples
 # 24: Classificador de Números
 # 25: Conversão de Tipo com Validação
+
